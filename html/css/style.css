@@ -234,7 +234,19 @@ button {
 }
 
 .logo img{
-    width: 100px;
+    width: 70px;
+    border-radius: 50%;
+}
+
+.title{
+    padding-top: 15px;
+    margin-left: 15%;
+    color: white;
+}
+
+.user-logo img{
+    width: 70px;
+    height: 70px;
     border-radius: 50%;
 }
 
@@ -540,16 +552,16 @@ img.image_3 {
 /* about section end */
 
 
-/* marriage section start */
+/* vitamin section start */
 
-.marriage_section {
+.vitamin_section {
     width: 100%;
     float: left;
     background: green;
     padding-bottom: 90px;
 }
 
-.marriage_img {
+.vitamin_img {
     width: 100%;
     float: left;
 }
@@ -558,12 +570,12 @@ img.image_3 {
     padding-left: 0px;
 }
 
-.marriage_taital_main {
+.vitamin_taital_main {
     width: 80%;
     float: left;
 }
 
-.marriage_taital {
+.vitamin_taital {
     width: 100%;
     float: left;
     font-size: 28px;
@@ -572,7 +584,7 @@ img.image_3 {
     text-transform: uppercase;
 }
 
-.marriage_text {
+.vitamin_text {
     width: 100%;
     float: left;
     font-size: 16px;
@@ -580,18 +592,18 @@ img.image_3 {
     margin: 0px;
 }
 
-.marriage_section_2 {
+.vitamin_section_2 {
     width: 100%;
     float: left;
     padding-top: 0px;
 }
 
-.marriage_taital_left {
+.vitamin_taital_left {
     width: 30%;
     float: left;
 }
 
-.marriage_taital_right {
+.vitamin_taital_right {
     width: 70%;
     float: left;
 }
@@ -629,7 +641,7 @@ img.image_3 {
 }
 
 
-/* marriage section end */
+/* vitamin section end */
 
 
 /* blog section start */
